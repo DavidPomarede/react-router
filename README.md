@@ -2,4 +2,5 @@
 
 Testing React with MongoDB
 
-!(https://router-react-test2.herokuapp.com/) https://router-react-test2.herokuapp.com/
+
+[Check out the Live version (for now)](https://router-react-test2.herokuapp.com/)
